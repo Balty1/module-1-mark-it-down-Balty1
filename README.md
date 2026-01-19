@@ -7,7 +7,7 @@
 *Sophomore | Class of 2028*<br>
 *Computer Science & Business Administration in Marketing*<br>
 
-![Picture of me](images/my-image.png)
+![Picture of me](images/my-image.png =200x200)
 
 ### My Hobbies
 - Hiking
