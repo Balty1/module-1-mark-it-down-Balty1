@@ -2,12 +2,12 @@
 
 ## Balty Urrutia
 **Burrutiaboca**<br>
-**Balty1**. 
-*He/him*. 
-*Sophomore | Class of 2028*. 
-*Computer Science & Business Administration in Marketing*. 
+**Balty1**<br>
+*He/him*<br> 
+*Sophomore | Class of 2028*<br>
+*Computer Science & Business Administration in Marketing*<br>
 
-![Picture of me](https://drive.google.com/uc?export=view&id=1bCBhtrgHI-U0_lkLvwvPw6rYDHmoFuj8)
+![Picture of me](images/my-image.png)
 
 ### My Hobbies
 - Hiking
