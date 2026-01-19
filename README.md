@@ -2,11 +2,11 @@
 [REPLACE ME!] 
 
 ## Balty Urrutia
-** Burrutiaboca **
-** Balty1 **
-* He/him *
-* Sophomore | Class of 2028 *
-* Computer Science & Business Administration in Marketing *
+**Burrutiaboca**
+**Balty1**
+*He/him*
+*Sophomore | Class of 2028*
+*Computer Science & Business Administration in Marketing*
 
 ![Picture of me](https://drive.google.com/uc?export=view&id=1bCBhtrgHI-U0_lkLvwvPw6rYDHmoFuj8)
 
